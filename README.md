@@ -1,6 +1,6 @@
 ## Overview
 
-This project implements a complete data pipeline as described in the Rearc Data Quest assignment.  
+This project implements a complete data pipeline as described in the [Rearc Data Quest assignment](https://github.com/rearc-data/quest).   
 It covers data ingestion, storage, analytics, and automation using AWS services and Python.
 
 ---
@@ -114,7 +114,7 @@ submission/
 
 - **Demo data** is used for DataUSA if the API is unavailable.
 - **All code is commented and ready to run.**
-- **Contact:** kalokhe.pushpak28@gmail.com | +91-8380857257
+- **Contact:** kalokhe.pushpak28@gmail.com
 
 ---
 
