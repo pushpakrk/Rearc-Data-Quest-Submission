@@ -13,7 +13,7 @@ It covers data ingestion, storage, analytics, and automation using AWS services 
 - **Part 4:** Infrastructure as Code (AWS CDK) and Data Pipeline Automation (`cdk/` folder)
 - **Sample Data:** `sample_data/population.json`
 - **This README**
-- All files at one place : [Link](https://drive.google.com/drive/folders/134x4619Yu0VpE_kexBRqv0e0kJEQZeSN?usp=sharing)
+- All files can be found here : [Link](https://drive.google.com/drive/folders/134x4619Yu0VpE_kexBRqv0e0kJEQZeSN?usp=sharing)
 
 ---
 
