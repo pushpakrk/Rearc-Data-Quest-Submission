@@ -33,7 +33,7 @@ It covers data ingestion, storage, analytics, and automation using AWS services 
 
 ## Part 2: APIs
 
-- **Script:** `part2_datausa_to_s3.py` [Link-to-file](https://drive.google.com/file/d/1FIi3aXBvn6Mxb7QIPDi0l-EO7BazSvA2/view?usp=drive_link)
+- **Script:** `part2_datausa_to_s3.py` [Link-to-file](https://drive.google.com/file/d/1GqZoqBDtve0og_iFyG3oYfgA2bREdypR/view?usp=drive_link)
 - **What it does:**  
   Fetches US population data from the DataUSA API and saves the result as a JSON file in S3.
 - **Note:**  
