@@ -27,7 +27,6 @@ It covers data ingestion, storage, analytics, and automation using AWS services 
 - **Note:**  
   The script uses a custom User-Agent header to comply with BLS data access policies.
 
-![[Pasted image 20250710005606.png]]
 
 ---
 
